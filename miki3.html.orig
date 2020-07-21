@@ -1,0 +1,22 @@
+8888888888888888888888888888888888888888
+88888888888888888888888888888888888888
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
+  <title>8888888888888888888888888888888888888888
+    88888888888888888888888888888888888888</title>
+=======
+  <title>This is with conflict</title>
+>>>>>>> miki
+</head>
+
+<body>
+
+</body>
+
+</html>
